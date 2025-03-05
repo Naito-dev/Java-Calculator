@@ -7,7 +7,7 @@ public class Screen{
 
     public Screen(){
     {
-    Font arial = new Font("Arial", Font.ITALIC, 40);
+    Font arial = new Font("Arial", Font.ITALIC, 30);
     Color preto = new Color(0, 0, 0);
     Color branco = new Color(237, 241, 238);
     Color cinza = new Color(35, 35, 35);
